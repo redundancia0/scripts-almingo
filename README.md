@@ -1,0 +1,1 @@
+Aquí se guardarán todos los scripts que usaremos para las máquinas de Almingo
