@@ -1,6 +1,6 @@
 @echo off
 
-set "carpeta=C:\Origen"
+set "carpeta=%USERPROFILE%\Documents"
 set "ruta_backups=C:\Backups"
 set "archivo_backup=Backup_%date:~-10,2%-%date:~-7,2%-%date:~-4,4%.zip"
 
